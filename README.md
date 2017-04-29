@@ -8,7 +8,7 @@ The Name of system developed is MSRP, it was developed by Welliton Fernandes Lea
 Theoretical work, written, is in .PDF format titled as: "Verification of Network Protocol Implementation by means of Model-Based Testing - (Verificação de Implementação de Protocolo de Rede por Meio de Teste Baseado em Modelo - IFPR)"
 
 
-<b>How to use MSRP</b>
+<h5>HOW TO USE MSRP</h5>
 
 <b>1 - Create the state machine.</b>
 You have two options:

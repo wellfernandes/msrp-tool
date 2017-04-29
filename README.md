@@ -20,5 +20,4 @@ For to check a modeling, compare the model with the trace file:
 
 You just need to import the trace file and to click on check modeling button.
 
-
 (This folder also contains related works that contributed to the research and development of the entire project).

@@ -3,8 +3,8 @@ Research and development of a new network tool
 
 Works developed in college
 
-Title: Network Protocol Verification System by Means of Model-Based Testing.
-Name of the system developed: MSRP
+<b>Network Protocol Verification System by Means of Model-Based Testing.</b>
+The Name of system developed is MSRP, it was developed by Welliton Fernandes Leal.
 Theoretical work, written, is in .PDF format titled as: "Verification of Network Protocol Implementation by means of Model-Based Testing - (Verificação de Implementação de Protocolo de Rede por Meio de Teste Baseado em Modelo - IFPR)"
 
 

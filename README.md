@@ -5,7 +5,7 @@ Works developed in college
 
 <b><h5> Network Protocol Verification System by Means of Model-Based Testing.</h5></b>
 The name of the developed system is MSRP, it was developed to try to improve network protocol implementation verification tasks.
-Theoretical work, written, is in .PDF format titled as: "Verification of Network Protocol Implementation by means of Model-Based Testing - (Verificação de Implementação de Protocolo de Rede por Meio de Teste Baseado em Modelo - IFPR)"
+Theoretical work, written, is in PDF format titled as: "Verification of Network Protocol Implementation by means of Model-Based Testing - (Verificação de Implementação de Protocolo de Rede por Meio de Teste Baseado em Modelo - IFPR)"
 
 
 <h5>How to use MSRP</h5>

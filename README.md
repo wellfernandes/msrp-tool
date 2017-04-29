@@ -19,6 +19,7 @@ New state, Delete state and Insert transition.
 1.2 or, Just load an XML state machine through menu FIle > Open XML.
 
 For to check a modeling, compare the model with the trace file:
+
 2 - With the XML file loaded or the graph model of state machine:
 You just need to import the trace file and to click on check modeling button.
 

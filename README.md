@@ -1,7 +1,7 @@
-# University
+# MRSP
 Research and development of a new network tool
 
-Works developed in college
+Works developed in college (University)
 
 <b><h5> Verification of Network Protocol Implementation by means of Model-Based Testing.</h5></b>
 The name of the developed system is MSRP, it was developed to try to improve network protocol implementation verification tasks.

@@ -1,26 +1,34 @@
-# MRSP
-Research and development of a new network tool
+# Ferramenta MSRP
 
-<b><h5> Verification of Network Protocol Implementation by means of Model-Based Testing.</h5></b>
-The name of the developed system is MSRP, it was developed to try to improve network protocol implementation verification tasks.
-Theoretical work, written, is in PDF format titled as: "Verification of Network Protocol Implementation by means of Model-Based Testing - (Verificação de Implementação de Protocolo de Rede por Meio de Teste Baseado em Modelo - IFPR)"
+![msrp](img/msrp-tool.png)
 
+Pesquisa e desenvolvimento de uma ferramenta para automatização do processo de verificação de implementação de protocolo de rede.
 
-<h5>How to use MSRP</h5>
+## 🚀 Descrição
 
-<b>1 - Create the state machine.</b>
-You have two options:
+MSRP (Modeling System | Routing Protocol)
+A ferramenta MSRP possibilita verificar e validar simulações geradas pelo software *Network Simulator 2 (NS2)*, através da importação do arquivo de saída trace e a comparação entre o modelo gerado pela MSRP. Também é possível importar um modelo pré-definido, com todos estados e eventos esperados no formato XML.
+
+### 🖥 Execução da ferramenta
+
+###### Como usar a MSRP
  
-<b>1.1</b> Model a state machine graphically using the interface buttons:
-New state, Delete state and Insert transition.
- 
-<b>1.2</b> or, Just load an XML state machine through menu FIle > Open XML.
+1. Modele uma máquina de estados graficamente usando os botões da interface: *New state*, *Delete state* e *Insert transition*
+ - ou, basta carregar um modelo pré-definido em formato XML através do menu: *File* > *Open XML*.
 
-<b>2 - For to check a modeling, compare the model with the trace file:</b>
+2. Para verificar uma simulação, com o modelo gráfico já importado ou definido graficamente: 
+ - acesse o menu: *File* e importe o arquivo trace clicando em *Import trace*
+ - clique em *Check modeling*.
 
-<b>2.1</b> With the XML file loaded or the graph model of state machine:
-You just need to import the trace file and to click on check modeling button.
+ ### ⚙️ Arquivos para execução MSRP
 
+ - [Arquivo compilado MSRP para download](/Executable-and-files-MSRP/MSRP.jar.zip)
+ - [Arquivo trace de exemplo](/Executable-and-files-MSRP/Trace%20File/)
+ - [Arquivo de modelo gráfico em XML](/Executable-and-files-MSRP/XML%20Final%20State%20Machine/)
 
+ ### 📚 Trabalhos relacionados
 
-<h5>(This folder also contains related works that contributed to the research and development of the entire project).</h5>
+ [Artigos e trabalhos relacionados](/Related-works) que contribuiram para a pesquisa e desenvolvimento do trabalho [Verificação de Implementação de Protocolo de Rede Por Meio de Teste Baseado em Modelo](/Verifica%C3%A7%C3%A3o-de-Implementa%C3%A7%C3%A3o-de-Protocolo-de-Rede-por-Meio-de-Teste-Baseado-em-Modelo.pdf).
+
+---
+[Linkedin](https://www.linkedin.com/in/wellitonfernandes/) 😊

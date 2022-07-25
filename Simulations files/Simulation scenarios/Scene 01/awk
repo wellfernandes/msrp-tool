@@ -1,3 +1,0 @@
-awk '{if($1 == "d") total += 1 } END {print "Total Pacotes Dropados: ",total}' out_cen1.tr 
-
-awk '{if($1 == "d") print $1,$2}' out_cen1.tr
